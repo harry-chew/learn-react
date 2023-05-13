@@ -8,11 +8,17 @@ const Home = () => {
     useEffect(() => {
         fetch('http://localhost:8000/blogs')
         .then(res => {
-            return res.json();
+            if(res.ok) {
+                return res.json();  
+            }
+            
         })
         .then(data => {
             setBlogs(data);
             setIsPending(false);
+        })
+        .catch(err => {
+            console.log(err.message);
         })
     }, []);
 

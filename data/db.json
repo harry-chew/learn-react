@@ -1,52 +1,10 @@
 {
   "blogs": [
     {
-      "title": "My First Blog",
-      "body": "This is my first blog post. I hope you like it.",
-      "author": "John Doe",
-      "id": 1
-    },
-    {
       "title": "My Second Blog",
       "body": "This is my second blog post. I hope you like it.",
       "author": "Mickie  Mouse",
       "id": 2
-    },
-    {
-      "title": "new blog",
-      "body": "isajhjdfiopsewhjdfiojkeshjfiojksehjfokjiesfiojes",
-      "author": "mario",
-      "id": 3
-    },
-    {
-      "title": "new blog 2",
-      "body": "ioshjedfoikjsejfcvoiesjoifjseoifse",
-      "author": "harry",
-      "id": 4
-    },
-    {
-      "title": "new blog 2",
-      "body": "ioshjedfoikjsejfcvoiesjoifjseoifse",
-      "author": "harry",
-      "id": 5
-    },
-    {
-      "title": "this is new blog",
-      "body": "yesyesyesyesy",
-      "author": "mario",
-      "id": 6
-    },
-    {
-      "title": "sadsafqatgwqd",
-      "body": "ardfawfrsefsedawdawdawd",
-      "author": "mario",
-      "id": 7
-    },
-    {
-      "title": "efdfrgfdrfgrde",
-      "body": "sesdfsefesfsefsef",
-      "author": "mario",
-      "id": 8
     }
   ]
 }
